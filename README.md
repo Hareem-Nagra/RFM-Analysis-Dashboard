@@ -1,6 +1,6 @@
 # RFM-Analysis-Dashboard
 This repository contain python code for doing RFM analysis on customer data and transforming it into a dashboard. The first part of the code consists of using customer data to perform RFM Analysis and making graphs based on the analysis scores.
-Then the graphs have been converted into a dashboard using the Dash library in Python. This project has been done by following Aman Kharwal's Data Analysis Python Project tutorials on Medium.
+Then the graphs have been converted into a dashboard using the Dash library in Python. This project has been done by following Aman Kharwal's Data Analysis Python Project tutorials on Medium. In this repository you'll find the code of the project as well as the dataset used.
 
 
 
